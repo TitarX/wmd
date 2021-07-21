@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : data.xml
+    Created on : June 19, 2011, 8:10 PM
+    Author     : TitarX
+    Description:
+        Purpose of the document follows.
+-->
+
+<data>
+    <urlid>
+        <id>
+            aef504b7-f2b2-4c0c-86b8-9f060180b7a8
+        </id>
+        <link>
+            https://login.wmtransfer.com/GateKeeper.aspx?RID=aef504b7-f2b2-4c0c-86b8-9f060180b7a8&amp;lang=ru-RU
+        </link>
+    </urlid>
+    <db>
+        <user>
+            xgb_wmddb
+        </user>
+        <password>
+            2e9ccae2
+        </password>
+        <url>
+            jdbc:postgresql://postgres48.1gb.ru:5432/xgb_wmddb
+        </url>
+        <driver>
+            org.postgresql.Driver
+        </driver>
+    </db>
+    <email>
+        <pop>
+            pop3-19.1gb.ru
+        </pop>
+        <smtp>
+            smtp-19.1gb.ru
+        </smtp>
+        <login>
+            u328537
+        </login>
+        <password>
+            6c94ee7d8234
+        </password>
+        <to>
+            idmiv@yahoo.com
+        </to>
+        <from>
+            wmd@webcentrum.ru
+        </from>
+        <attachmentfolder>
+            F:/Work/Projects/webcentrum.ru/wmd/Project/WMD/web/data/emailcontent/
+        </attachmentfolder>
+    </email>
+</data>

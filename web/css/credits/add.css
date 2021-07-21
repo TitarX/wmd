@@ -1,0 +1,15 @@
+.thispage
+{
+    background-color: #FFFACD;
+    border: 1px solid #E56F03;
+}
+
+td
+{
+    text-align: left;
+}
+
+.toRight
+{
+    text-align: right;
+}
